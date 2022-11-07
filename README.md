@@ -1,4 +1,4 @@
-### Hi there 👋
+#Olá, me chamo Erich Alecsander ! ## Bem vindo ao meu perfil GitHub 👋
 
 <!--
 **ErichAlecs/ErichAlecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
